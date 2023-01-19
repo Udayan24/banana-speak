@@ -18,9 +18,11 @@ h1 {
 }
 
 .ta {
-    display: block;
     margin: auto;
     width: 100%; 
+    text-align: left;
+    padding: 0.5rem;
+    resize: none;
 }
 
 #btn-translate {
